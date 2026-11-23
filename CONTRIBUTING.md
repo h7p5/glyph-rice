@@ -3,7 +3,7 @@
 Work happens on `dev`; `main` only moves with releases. Branch from `dev` and open the pull request into `dev`:
 
 ```sh
-git remote add upstream https://github.com/Nebelung-cloud/glyph-rice
+git remote add upstream https://github.com/h7p5/glyph-rice
 git fetch upstream
 git switch -c my-fix upstream/dev
 ```

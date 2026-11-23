@@ -2,7 +2,7 @@
 
 <img src="assets/title.svg" width="760" alt="Glyph: a Nothing OS rice for Hyprland + Quickshell">
 
-Black, white dots, one red. A sibling of [Demon's Shot](https://github.com/Nebelung-cloud/demons-shot-rice).
+Black, white dots, one red. Maintained by [h7p5](https://github.com/h7p5).
 
 <br>
 
@@ -54,7 +54,7 @@ Also: Hyprland (Lua), hypridle, kitty, fish, starship, fastfetch, btop, cava (do
 <h2 align="center">Install</h2>
 
 ```sh
-git clone https://github.com/Nebelung-cloud/glyph-rice ~/.local/share/glyph
+git clone https://github.com/h7p5/glyph-rice ~/.local/share/glyph
 ~/.local/share/glyph/install.sh                  # Arch: packages, services, symlinks, login theme
 ~/.local/share/glyph/install.sh --with telegram  # same, extras picked up front
 ~/.local/share/glyph/install.sh --links          # any distro: symlinks only
@@ -133,6 +133,8 @@ Fonts: Doto, Space Grotesk, Space Mono, JetBrains Mono Nerd Font.
 <div align="center"><img src="assets/divider-matrix.svg" width="720" alt=""></div>
 
 <h2 align="center">License</h2>
+
+Based on [glyph-rice](https://github.com/Nebelung-cloud/glyph-rice) by Nebelung-cloud, a sibling of [Demon's Shot](https://github.com/Nebelung-cloud/demons-shot-rice).
 
 [GPL-3.0](LICENSE). Fonts are under the [OFL](config/fonts/OFL.txt), cava shaders keep their MIT headers.
 Nothing, Nothing OS and Glyph are trademarks of Nothing Technology Ltd; this is a fan project, not affiliated with Nothing.
